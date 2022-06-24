@@ -28,7 +28,7 @@ export default function Service() {
   return (
     <section className="contact bg-success">
       <div className="container">
-        <h2 className="text-white">We love new friends!</h2>
+        <h2 className="text-white">We love Guvi</h2>
         <div className="row">
           {cardData.map((value) => {
             return (
